@@ -1,6 +1,6 @@
 <!--ts-->
    * 👋 Hi, I’m Luis Gustavo
-   * 👤 I'm 16 years old
+   * 👤 I'm 17 years old
    * 🌎 I'm brizilian
    * 👀 I’m interested in Technologies
    * 🌱 I’m currently learning Java, JavaScript, html and CSS
