@@ -1,13 +1,9 @@
 <!--ts-->
    * 👋 Hi, I’m Luis Gustavo
-   * 👤 I'm 17 years old
-   * 🌎 I'm brizilian
+   * 👤 I'm 18 years old
+   * 🌎 I'm brazilian
    * 👀 I’m interested in Technologies
-   * 🌱 I’m currently learning Java, JavaScript, html and CSS
-   * 📫 How to reach me:
-      * Discord - ilunnie#5704
-      * Instagram - @EuSouLunnie
-      * Tik Tok - @EuSouLunnie
+   * 🌱 I’m currently learning Python
 <!--te-->
 
 <!---
