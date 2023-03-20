@@ -23,9 +23,12 @@
 
 <div align="center">
   <a href = "mailto:luisgustavocaris2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<div align="center">
+  <img src="./We_Are_Bosch">
   
-![Snake animation](https://github.com/ilunnie/ilunnie/blob/output/github-contribution-grid-snake.svg)
-  
+  ![Snake animation](https://github.com/ilunnie/ilunnie/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=69059f&height=120&section=footer"/>
