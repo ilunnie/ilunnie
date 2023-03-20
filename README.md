@@ -26,7 +26,8 @@
 </div>
 
 <div align="center">
-  <img src="./We_Are_Bosch">
+  <p></p>
+  <img height="60" src="./We_Are_Bosch.png">
   
   ![Snake animation](https://github.com/ilunnie/ilunnie/blob/output/github-contribution-grid-snake.svg)
 </div>
