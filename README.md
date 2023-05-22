@@ -22,7 +22,9 @@
 ##
 
 <div align="center">
-  <a href = "mailto:luisgustavocaris2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luisgustavocaris2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="100px" height="30px"></a>
+  <a href="https://discordapp.com/users/379063621776441345" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="100px" height="30px"></a>
+  <a href="https://ilunnie.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-4E73DF?style=for-the-badge&logoColor=white" target="_blank"  width="100px" height="30px"></a>
 </div>
 
 <div align="center">
